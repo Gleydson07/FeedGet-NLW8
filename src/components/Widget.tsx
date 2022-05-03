@@ -36,7 +36,7 @@ export function Widget() {
         `}
       >
         <ChatTeardropDots size="24"/>
-        <span className="max-w-0 overflow-hidden group-hover:max-w-xs transition-all duration-500 ease-linear">
+        <span className="max-w-0 overflow-hidden group-hover:max-w-xs transition-all duration-300 ease-linear">
           <span className="pl-2"></span>
           Feedback
         </span>
